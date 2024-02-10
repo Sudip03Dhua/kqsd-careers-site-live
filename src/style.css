@@ -2,6 +2,13 @@ html{
     font-size: 16px;
 }
 
+@media screen and (min-width:400px) and (max-width:920px){
+    body{
+        background-color: #5598b9;
+        font-size: 1.6rem;
+    }
+}
+
 body{
     margin: 0;
     padding: 0;
@@ -180,3 +187,4 @@ padding: 9px;
     font-weight: 500;
     cursor: pointer;
 }
+
